@@ -1,7 +1,5 @@
 # telegrammPy
 
-# skyrimPy
-
 
 
 
